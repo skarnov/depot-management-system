@@ -1,0 +1,45 @@
+/*
+    Index
+    001. Evis Style
+    002. Login Page
+    003. Dashboard
+    004. Form
+*/
+
+/*001. Evis Style*/
+
+.breadcrumb{
+    padding: .3rem .3rem;
+}
+
+.main-menu{
+    min-height: 50em;
+}
+
+/*002. Login Page*/
+
+.login-body{
+    background: linear-gradient(to right, #1d976c, #93f9b9);
+}
+
+.admin-login{
+    background-color: white;
+}
+
+/*003. Dashboard*/
+
+#main, #sideNav{
+    display: none;
+    min-height: 50em;
+}
+
+.navbar {
+    border-bottom: 1px solid white;
+    line-height: 1.7em;
+}
+
+/*004. Form*/
+
+.noresize{
+    resize: none
+}
